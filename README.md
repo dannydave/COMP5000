@@ -1,4 +1,4 @@
-# Restaurant Delivery Service Database Project (COMP5000)
+# Restaurant Delivery Service Database Project
 
 ![image](https://www.synergysuite.com/wp-content/uploads/2023/07/restaurant-food-delivery-2-1024x576.jpg)
 
