@@ -1,0 +1,21 @@
+RestaurantID,RestaurantName,Cuisine,Zone,Category,Store,Manager,Years_as_manager,Email,Address
+1,The Cave Hotel,Continental,Zone B,Pro,1,Esther Hosea,2,estherhosea@example.org,4971 Janet Court;Livermore;CA;94550
+2,SSK Hotel,North Indian,Zone D,Pro,2,Dolores Dome,15,doloresdome@example.net,29 Vista Flores;Pleasanton;CA;94566
+3,ASR Restaurant,South Indian,Zone D,Ordinary,3,Jacquline Segal,9,jacqulinesegal@example.org,1383 Purdue Street;San Leandro;CA;94579
+4,Win Hotel,South Indian,Zone D,Ordinary,4,Anne Mckinley,1,annemckinley@example.net,1452 55th Avenue;Oakland;CA;94621
+5,Denver Restaurant,Continental,Zone D,Pro,5,Francisco Doxey,14,franciscodoxey@example.net,1352 Purdue Street;San Leandro;CA;94579
+6,Willies,French,Zone D,Pro,6,Bonnie Somers,5,bonniesomers@example.net,43626 Bryant Street;Fremont;CA;94539
+7,AMN,North Indian,Zone D,Ordinary,7,Nicolle Arnold,1,nicollearnold@example.org,7096 Park Mesa Way;San Diego;CA;92111
+8,Oslo,French,Zone B,Ordinary,8,,,,12283 Thomas Lane;Yucaipa;CA;92399
+9,Excel Restaurant,North Indian,Zone D,Ordinary,9,Georgia Vandergriff,5,georgiavandergriff@example.net,5472 Sunstar Common;Fremont;CA;94555
+10,Dave Hotel,South Indian,Zone A,Ordinary,10,Sabrina Riley,11,sabrinariley@example.com,43626 Bryant Street;Fremont;CA;94539
+11,The Taste,French,Zone B,Pro,11,Nancy Cox,8,nancycox@example.net,32512 Christine Drive;Union City;CA;94587
+12,Ruchi,Chinese,Zone B,Ordinary,12,Norbert Stormo,8,norbertstormo@example.com,5264 Shafter Avenue;Oakland;CA;94618
+13,Veer Restaurant,Chinese,Zone D,Ordinary,13,Augusta Hurley,15,augustahurley@example.net,2014 Clemens Road;Oakland;CA;94602
+14,KSR Hotel,Chinese,Zone A,Pro,14,Megan Guillot,14,meganguillot@example.org,1452 55th Avenue;Oakland;CA;94621
+15,Vrinda Bhavan,North Indian,Zone D,Ordinary,15,Clara Owen,,claraowen@example.org,2732 Humboldt Avenue;Oakland;CA;94602
+16,Anand Restaurant,African,Zone C,Ordinary,16,Tanisha Schaefer,15,tanishaschaefer@example.com,32532 Jean Drive;Union City;CA;94587
+17,Zam Zam,Arabian,Zone C,Ordinary,17,Patrick Stacey,9,,6925 Lariat Lane;Castro Valley;CA;94552
+18,Ellora,African,Zone C,Pro,18,Bianca Tirk,9,biancatirk@example.com,3228 Chettenham Drive;Rancho Cordova;CA;95670
+19,Sam Hotel,Belgian,Zone A,Ordinary,19,Wesley Whitley,9,wesleywhitley@example.org,145 Grau Drive;Fremont;
+20,Chew Restaurant,Belgian,Zone B,Ordinary,20,Doreen Gibbs,15,doreengibbs@example.net,7573 National Drive;Livermore;CA;94550
