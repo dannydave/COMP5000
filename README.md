@@ -4,7 +4,7 @@
 
 Overview
 
-This project is part of a university coursework aimed at developing a database system for a local food delivery service in the USA. The delivery service currently stores order information in CSV files, but the goal is to transition to a more structured and efficient database solution using SQLite.
+This project is aimed at developing a database system for a local food delivery service in the USA. The delivery service currently stores order information in CSV files, but the goal is to transition to a more structured and efficient database solution using SQLite.
 
 Project Objectives
 
