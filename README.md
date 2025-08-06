@@ -25,7 +25,7 @@ This project focuses on designing and developing a lightweight database system f
 * 📥 **CSV to SQLite Import**: Seamlessly import order data from multiple CSV files.
 * 🗂️ **Schema Creation**: Automatically generate database tables based on the data structure.
 * 🔍 **GUI Interface**: View, search, and interact with order records through a user-friendly interface.
-* ✏️ **Editable Data** *(Optional)*: Potential to add, update, or delete orders from the GUI.
+* ✏️ **Editable Data** : Potential to add, update, or delete orders from the GUI.
 
 ## 📚 Learning Outcomes
 
