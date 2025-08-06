@@ -1,43 +1,39 @@
-# Restaurant Delivery Service Database Project
+---
 
-![image](https://www.synergysuite.com/wp-content/uploads/2023/07/restaurant-food-delivery-2-1024x576.jpg)
+# 🍔 Restaurant Delivery Service Database Project
 
-Overview
+![Food Delivery](https://www.synergysuite.com/wp-content/uploads/2023/07/restaurant-food-delivery-2-1024x576.jpg)
 
-This project is aimed at developing a database system for a local food delivery service in the USA. The delivery service currently stores order information in CSV files, but the goal is to transition to a more structured and efficient database solution using SQLite.
+## 📌 Overview
 
-Project Objectives
+This project focuses on designing and developing a lightweight database system for a local food delivery service in the USA. The business initially managed its orders through flat CSV files, but to improve efficiency and scalability, this project transitions the system to a structured **SQLite** database with a simple GUI for interacting with the data.
 
-* Database Design: Analyze and design a relational database schema based on the provided CSV files.
+## 🎯 Objectives
 
-* Data Migration: Develop Python scripts to read the CSV files and populate the newly created SQLite database.
+* **Database Design**: Analyze CSV data and design a normalized relational database schema.
+* **Data Migration**: Use Python scripts to extract data from CSV files and populate the SQLite database.
+* **User Interface**: Develop a desktop GUI using Tkinter (or other frameworks excluding `ipywidgets`) to enable basic database interactions.
 
-* Graphical User Interface (GUI): Create a user-friendly interface using Tkinter (or another GUI framework, excluding ipywidgets) to interact with the database.
+## 🛠️ Technologies
 
-Technologies Used
+* **SQLite** – Lightweight, serverless database engine
+* **Python** – For scripting, database access, and logic
+* **Tkinter** – GUI toolkit for building interactive desktop applications
 
-* SQLite for database management.
+## ✨ Features
 
-* Python for data processing and GUI development.
+* 📥 **CSV to SQLite Import**: Seamlessly import order data from multiple CSV files.
+* 🗂️ **Schema Creation**: Automatically generate database tables based on the data structure.
+* 🔍 **GUI Interface**: View, search, and interact with order records through a user-friendly interface.
+* ✏️ **Editable Data** *(Optional)*: Potential to add, update, or delete orders from the GUI.
 
-* Tkinter for GUI implementation.
+## 📚 Learning Outcomes
 
-Features
+Through this project, you will gain hands-on experience with:
 
-* Data import from multiple CSV files into SQLite.
+* Relational **database design** and **normalization**
+* **Python scripting** for file handling and database interaction
+* Building desktop applications with **Tkinter**
+* Combining **data engineering**, **database management**, and **user interface design** into a unified solution
 
-* Database schema creation based on file structure.
-
-* Basic querying and data display via the GUI.
-
-* Ability to view, search, and potentially update order information through the GUI.
-
-Learning Outcomes
-
-* Database design and normalization.
-
-* Python file handling and database interaction.
-
-* GUI development with Tkinter.
-
-* Combining data engineering, database management, and user interface design into a complete application.
+---
