@@ -1,7 +1,11 @@
----
+
+
 
 # 🍔 Restaurant Delivery Service Database Project
-
+[![Author](https://img.shields.io/badge/Author-dannydave-blue)](https://github.com/dannydave)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+![GitHub last commit](https://img.shields.io/github/last-commit/dannydave/COMP5000?color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/dannydave/COMP5000?color=green)
 ![Food Delivery](https://www.synergysuite.com/wp-content/uploads/2023/07/restaurant-food-delivery-2-1024x576.jpg)
 
 ## 📌 Overview
